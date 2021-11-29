@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Хаос</string>
+    <string name="off">Отключить уведомление</string>
+    <string name="on">Включить уведомление</string>
+</resources>
